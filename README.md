@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rose Felisme</h1>
 <h3 align="center">A passionate software developer from Boston, MA.</h3>
 
-<p align="left"> <a href="https://twitter.com/rosefelisme" target="blank"><img src="https://img.shields.io/twitter/follow/rosefelisme?logo=twitter&style=for-the-badge" alt="rosefelisme" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -17,7 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosefelisme&show_icons=true&locale=en&layout=compact" alt="rosefelisme" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rosefelisme&show_icons=true&locale=en" alt="rosefelisme" /></p>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rosefelisme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rosefelisme" height="30" width="40" /></a>
